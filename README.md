@@ -52,3 +52,7 @@ uv add mcp[cli] httpx
 # Create our server file
 new-item pokemon.py  # On PowerShell
 ```
+
+## Additional details
+
+2MinutesPy provides a walkthrough here: https://www.youtube.com/watch?v=Fhy_VFMlE9s
